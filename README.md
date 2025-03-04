@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Sonu Sharma</h1><br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRpd2hpbnEybmNncG1wYWF1bTB5dXVleW40cjg1aWt1bTJ4OGh5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I’m currently pursuing **B.Tech Electronics and Communication Engineering**
+- 🔭 I’m currently pursuing **B.Tech in Electronics and Communication Engineering**
 
 - 🌱 I’m currently focused on **DSA, Fullstack**
 
