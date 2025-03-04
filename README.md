@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/s0nusharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelastcig" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/s0nusharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelastcig" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/31ebitksmlgxqlkrrjzetlhwqyuq?si=46cc1d0260ca422c" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Spotify" height="30" width="40" /></a>
 <a href="https://letterboxd.com/thelastcig/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/thelastcig/thelastcig/main/Letterboxdfinal.png" alt="Letterboxd" height="30" width="40" /></a>
 <a href="https://www.serializd.com/user/Ciggy/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/thelastcig/thelastcig/main/srlzd.jfif" alt="Srlzd" height="30" width="40" /></a>
